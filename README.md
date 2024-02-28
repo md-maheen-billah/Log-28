@@ -1,11 +1,11 @@
 # Log 28 (Duration: 1/6 Months)
 Today, I worked on creating a webpage, aiming to apply the new concepts I've learned in the past few days. This involved - 
 
-i)Loading Data Using API, Displaying Cards Dynamically. 
+i) Loading Data Using API, Displaying Cards Dynamically. 
 
-ii)Implementing Search Functionality And Displaying Search Result. 
+ii )Implementing Search Functionality And Displaying Search Result. 
 
-iii)Deploying a Conditional Show All Button. 
+iii) Deploying a Conditional Show All Button. 
 
 iv) Showing And Hiding Loading Spinner While Loading API Data.
 
