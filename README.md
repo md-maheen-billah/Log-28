@@ -3,7 +3,7 @@ Today, I worked on creating a webpage, aiming to apply the new concepts I've lea
 
 i) Loading Data Using API, Displaying Cards Dynamically. 
 
-ii )Implementing Search Functionality And Displaying Search Result. 
+ii) Implementing Search Functionality And Displaying Search Result. 
 
 iii) Deploying a Conditional Show All Button. 
 
